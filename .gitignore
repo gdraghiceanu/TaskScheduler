@@ -1,0 +1,11 @@
+bin/
+obj/
+*.user
+*.suo
+*.userprefs
+*.cache
+*.csproj.user
+*.dll
+*.pdb
+*.exe
+.vs/
